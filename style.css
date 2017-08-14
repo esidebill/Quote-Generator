@@ -1,0 +1,25 @@
+html, body {
+  height: 100%;
+  background-image:url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-5-full.jpg");
+}
+
+.well {
+  margin-top: 50%;
+}
+.container {
+  max-width: 400px;
+  height: 100%;
+}
+
+.container-fluid {
+  height: 100%;
+}
+
+.quoteOutput {
+  font-size:22px;
+  font-style:italic;
+}
+
+.quoteAuthor {
+  font-size:16px;
+}
